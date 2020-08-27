@@ -28,5 +28,12 @@ Assignments for Algorithms 2 (Robert Sedgewick and Kevin Wayne , Princeton)
  >> **Specs :** https://coursera.cs.princeton.edu/algs4/assignments/baseball/specification.php   
  >> **Grade :** 100 %   
  >> **Todo(s) :**  NA     
+ 
+  ## Week 4  
+ 
+ >> **Specs :** https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php   
+ >> **Grade :** 100 %   
+ >> **Todo(s) :**  NA  
+ >> **Comment :** The important part was to override the R-way Trie to a 26 way trie to save memory and check for prefix before going deep in DFS. Created                   TSET.java which is overriden version of TrieSET with R = 26 (A-Z)
           
  

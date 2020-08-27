@@ -21,6 +21,12 @@ Assignments for Algorithms 2 (Robert Sedgewick and Kevin Wayne , Princeton)
           1. Throwing Exceptions   
           2. Failed all the memory cases. Need to optimize   
           3. Clear out Checkstyle warnings   
-          4. Remove commented code blocks.  
+          4. Remove commented code blocks. 
+          
+ ## Week 3  
+ 
+ >> **Specs :** https://coursera.cs.princeton.edu/algs4/assignments/baseball/specification.php   
+ >> **Grade :** 100 %   
+ >> **Todo(s) :**  NA     
           
  
